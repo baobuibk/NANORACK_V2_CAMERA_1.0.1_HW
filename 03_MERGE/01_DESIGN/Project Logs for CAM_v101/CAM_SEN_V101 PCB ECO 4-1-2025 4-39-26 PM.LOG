@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=+5V_CAM Pin=C69-1
+Added Pin To Net: NetName=+3.3V Pin=C70-1
+Added Pin To Net: NetName=+3.3V Pin=C71-1
+Added Pin To Net: NetName=+2.4V Pin=C72-1
+Added Pin To Net: NetName=+5V_CAM Pin=R3-2
+Added Pin To Net: NetName=+3.3V Pin=R4-2
+Added Pin To Net: NetName=+5V_CAM Pin=U12-1
+Added Pin To Net: NetName=+3.3V Pin=U12-5
+Added Pin To Net: NetName=+3.3V Pin=U13-1
+Added Pin To Net: NetName=+2.4V Pin=U13-5
