@@ -328,10 +328,14 @@ DocumentPath=Project Outputs for CAM_SEN_V100\Design Rule Check - CAM_SEN_V100.h
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
+DocumentPath=Project Outputs for CAM_v101\Design Rule Check - CAM_SEN_V101.html
 DItemRevisionGUID=
 
 [GeneratedDocument29]
+DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
+DItemRevisionGUID=
+
+[GeneratedDocument30]
 DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.txt
 DItemRevisionGUID=
 
