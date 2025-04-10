@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AGNYTDXW
 
 [Document9]
 DocumentPath=..\..\..\..\0_LAB_LIB\0_LIB\LABLIB.SchLib
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JTXOZHHS
 
 [Document10]
 DocumentPath=CAMERA_V101.BomDoc

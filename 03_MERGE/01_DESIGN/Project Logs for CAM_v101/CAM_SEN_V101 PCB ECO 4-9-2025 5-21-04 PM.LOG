@@ -1,0 +1,46 @@
+Added Component: Designator=TP33(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP34(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP35(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP33-0
+Added Pin To Net: NetName=GND Pin=TP34-0
+Added Pin To Net: NetName=GND Pin=TP35-0
+Added Member To Class: ClassName=CONNECTOR Member=Component TP9
+Added Member To Class: ClassName=CONNECTOR Member=Component TP14
+Added Member To Class: ClassName=CONNECTOR Member=Component TP16
+Added Member To Class: ClassName=CONNECTOR Member=Component TP17
+Added Member To Class: ClassName=CONNECTOR Member=Component TP18
+Added Member To Class: ClassName=CONNECTOR Member=Component TP19
+Added Member To Class: ClassName=CONNECTOR Member=Component TP20
+Added Member To Class: ClassName=CONNECTOR Member=Component TP22
+Added Member To Class: ClassName=CONNECTOR Member=Component TP23
+Added Member To Class: ClassName=CONNECTOR Member=Component TP25
+Added Member To Class: ClassName=CONNECTOR Member=Component TP27
+Added Member To Class: ClassName=CONNECTOR Member=Component TP29
+Added Member To Class: ClassName=CONNECTOR Member=Component TP30
+Added Member To Class: ClassName=SENSOR Member=Component TP33
+Added Member To Class: ClassName=SENSOR Member=Component TP34
+Added Member To Class: ClassName=SENSOR Member=Component TP35
