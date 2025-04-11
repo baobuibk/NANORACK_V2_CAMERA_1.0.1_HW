@@ -1,21 +1,37 @@
 *************************************************************
-FileName = CAM_SEN_V101.GBR
+FileName = CAM_SEN_V120.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : CAM_SEN_V101_Legend_Bot.gbr
+Generating : Keep-Out Layer
+      File : CAM_SEN_V120_Keep-out.gbr
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D53
-    D63
+    D52
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : CAM_SEN_V101_Pads_Top.gbr
+Generating : Bottom Paste
+      File : CAM_SEN_V120_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : [L6] BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CAM_SEN_V120_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : [L1] TOP
 
@@ -43,91 +59,28 @@ Used DCodes :
     D30
     D31
     D32
-    D37
-    D38
-    D47
-    D56
 *************************************************************
 
 *************************************************************
-Generating : [L5] GND_2
-      File : [L5] GND 2.gbr
+Generating : Bottom Solder
+      File : CAM_SEN_V120_Soldermask_Bot.gbr
 
-    Adding Layer      : [L5] GND_2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D56
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : CAM_SEN_V101_Pads_Bot.gbr
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : [L6] BOTTOM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D56
-    D59
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : CAM_SEN_V101_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : [L6] BOTTOM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : CAM_SEN_V101_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : [L3] SIGNAL
-      File : [L3] SIGNAL.gbr
-
-    Adding Layer      : [L3] SIGNAL
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D49
-    D51
-    D52
-    D55
-    D56
-    D57
-    D58
+    D62
+    D63
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : CAM_SEN_V101_Soldermask_Top.gbr
+      File : CAM_SEN_V120_Soldermask_Top.gbr
 
     Adding Layer      : Top Solder
 
@@ -137,14 +90,14 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D15
+    D13
     D16
     D17
     D18
-    D22
+    D19
     D23
     D24
-    D32
+    D25
     D33
     D34
     D35
@@ -161,13 +114,74 @@ Used DCodes :
     D46
     D47
     D48
+    D49
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : CAM_SEN_V101_Soldermask_Bot.gbr
+Generating : Bottom Overlay
+      File : CAM_SEN_V120_Legend_Bot.gbr
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D52
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CAM_SEN_V120_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : CAM_SEN_V120_Pads_Top.gbr
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D38
+    D39
+    D48
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : CAM_SEN_V120_Pads_Bot.gbr
 
     Adding Layer      : [L6] BOTTOM
 
@@ -175,9 +189,99 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D48
+    D57
+    D60
     D61
-    D62
+*************************************************************
+
+*************************************************************
+Generating : [L6] BOTTOM
+      File : [L6] BOTTOM.gbr
+
+    Adding Layer      : [L6] BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : [L5] GND_2
+      File : [L5] GND 2.gbr
+
+    Adding Layer      : [L5] GND_2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : [L4] POWER
+      File : [L4] POWER.gbr
+
+    Adding Layer      : [L4] POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D54
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : [L3] SIGNAL
+      File : [L3] SIGNAL.gbr
+
+    Adding Layer      : [L3] SIGNAL
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D53
+    D54
+    D55
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : [L2] GND_1
+      File : [L2] GND.gbr
+
+    Adding Layer      : [L2] GND_1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D57
+    D58
 *************************************************************
 
 *************************************************************
@@ -210,122 +314,24 @@ Used DCodes :
     D30
     D31
     D32
-    D37
+    D33
     D38
-    D47
-    D49
+    D39
+    D48
     D50
     D51
     D52
     D53
     D54
     D55
-    D56
-    D57
-*************************************************************
-
-*************************************************************
-Generating : [L2] GND_1
-      File : [L2] GND.gbr
-
-    Adding Layer      : [L2] GND_1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D56
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : CAM_SEN_V101_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D53
-*************************************************************
-
-*************************************************************
-Generating : [L4] POWER
-      File : [L4] POWER.gbr
-
-    Adding Layer      : [L4] POWER
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D49
-    D50
-    D51
-    D54
     D56
     D57
     D58
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : CAM_SEN_V101_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : [L1] TOP
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : [L6] BOTTOM
-      File : [L6] BOTTOM.gbr
-
-    Adding Layer      : [L6] BOTTOM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D49
-    D50
-    D51
-    D52
-    D54
-    D55
-    D56
-    D57
-    D59
-    D60
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
-      File : CAM_SEN_V101_Drawing_1.gbr
+      File : CAM_SEN_V120_Drawing_1.gbr
 
     Adding Drill Pair : [L1] TOP-[L6] BOTTOM
 
@@ -334,12 +340,12 @@ Generating : Drill Drawing
 
 Used DCodes :
     D12
-    D64
+    D65
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
-      File : CAM_SEN_V101_Drillmap_1.gbr
+      File : CAM_SEN_V120_Drillmap_1.gbr
 
     Adding Drill Pair : [L1] TOP-[L6] BOTTOM
 
@@ -352,10 +358,10 @@ Used DCodes :
 
 *************************************************************
 Generating : Profile
-      File : CAM_SEN_V101_Profile.gbr
+      File : CAM_SEN_V120_Profile.gbr
 
 
 Used DCodes :
-    D65
+    D66
 *************************************************************
 

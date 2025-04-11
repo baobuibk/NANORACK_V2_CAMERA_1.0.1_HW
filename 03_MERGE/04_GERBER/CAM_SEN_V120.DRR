@@ -1,15 +1,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: CAM_SEN_V101.PcbDoc   4/10/2025  7:04:23 PM
+NCDrill File Report For: CAM_SEN_V120.PcbDoc   4/11/2025  2:52:52 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : [L1] TOP to [L6] BOTTOM
-ASCII RoundHoles File : CAM_SEN_V101.TXT
+ASCII RoundHoles File : CAM_SEN_V120.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             333       PTH        591.41mm (23.28inch)
+T1      0.2mm (8mil)                                              Round             332       PTH        607.79mm (23.93inch)
 T2      2.2mm (87mil)                                             Round             4         PTH        78.49mm (3.09inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              337
+Totals                                                                              336
 
 Total Processing Time (hh:mm:ss) : 00:00:00

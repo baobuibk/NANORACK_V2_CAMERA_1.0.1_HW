@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SEN0_1_SEL Pin=U17-13
-Removed Pin From Net: NetName=SEN01_23_SEL Pin=U17-14
-Added Pin To Net: NetName=SEN01_23_SEL Pin=U17-13
-Added Pin To Net: NetName=SEN0_1_SEL Pin=U17-14
