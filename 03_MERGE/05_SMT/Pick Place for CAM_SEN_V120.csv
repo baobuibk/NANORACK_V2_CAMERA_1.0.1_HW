@@ -4,9 +4,9 @@ D:\1_Altium_Project\3_Camera_Board_v101\NANORACK_V2_CAMERA_1.0.1_HW\03_MERGE\01_
 ========================================================================================================================
 File Design Information:
 
-Date:       11/04/25
-Time:       14:53
-Revision:   Not in VersionControl
+Date:       13/04/25
+Time:       12:08
+Revision:   0b418d51635031b32e4334a0677223e5bf1e8dc4
 Variant:    No variations
 Units used: mm
 
@@ -56,8 +56,8 @@ Units used: mm
 "TP17","","TopLayer","Testpoint_60","9.8000","32.1000","90","Test Point"
 "TP16","","TopLayer","Testpoint_60","12.0000","31.6000","90","Test Point"
 "TP15","","TopLayer","Testpoint_60","12.0000","32.5000","90","Test Point"
-"TP8","","TopLayer","Testpoint_70","11.0000","0.3000","90","Test Point"
-"TP7","","TopLayer","Testpoint_70","10.0000","0.4000","90","Test Point"
+"TP8","","TopLayer","Testpoint_80","11.0000","0.3000","90","Test Point"
+"TP7","","TopLayer","Testpoint_80","10.0000","0.4000","90","Test Point"
 "TP6","","TopLayer","Testpoint_60","9.9000","8.3000","90","Test Point"
 "TP5","","TopLayer","Testpoint_60","9.9000","9.3000","90","Test Point"
 "TP4","","TopLayer","Testpoint_60","8.9000","8.3000","90","Test Point"
@@ -76,7 +76,7 @@ Units used: mm
 "U16","TLV75518PDBVR","TopLayer","SOT25","17.7005","1.8002","180",""
 "U14","TLV75528PDBVR","TopLayer","SOT25","15.8006","6.6002","180",""
 "U13","TPS7A2024PDBVR","TopLayer","SOT25","2.0000","23.8000","270",""
-"U12","TLV75533PDBVR","TopLayer","SOT25","2.5000","42.4000","270",""
+"U12","TLV75733PDYDR","TopLayer","SOT25-EPAD","2.5000","42.4000","270",""
 "R29","4.7k","TopLayer","RES_C_1005X40","1.2000","20.4000","180","RES-Chip"
 "R28","4.7k/NC","TopLayer","RES_C_1005X40","20.0000","25.5000","0","RES-Chip"
 "R27","4.7k/NC","TopLayer","RES_C_1005X40","20.0000","24.5000","0","RES-Chip"

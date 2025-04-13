@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=U12 Old Footprint=SOT25 New Footprint=SOT25-EPAD
+Change Component Footprint: Designator=TP7 Old Footprint=Testpoint_70 New Footprint=Testpoint_80
+Change Component Footprint: Designator=TP8 Old Footprint=Testpoint_70 New Footprint=Testpoint_80
+Change Component Comment : Designator=U12 Old Comment=TLV75533PDBVR New Comment=TLV75733PDYDR
+Added Pin To Net: NetName=GND Pin=U12-7
+Added Member To Class: ClassName=SENSOR Member=Component U15 NCP139AFCT105T2G
